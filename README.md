@@ -95,24 +95,5 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Screenshots (Optional)
-_Add screenshots of your chatbot UI here._  
-
----
-
-## 💡 Future Enhancements
-- 📂 Multi-file knowledge base with persistent vector storage.  
-- 📊 Data analysis mode for CSV/Excel uploads.  
-- 🎤 Voice input/output.  
-- 🔒 User authentication with personalized history.  
-- 📌 Source citations for document answers.  
-
----
-
-## 🤝 Contributing
-Pull requests are welcome! Please open an issue first to discuss major changes.  
-
----
-
 ## 📜 License
-MIT License © 2025 [Your Name]  
+MIT License © 2025 [Pratik Aher]  
