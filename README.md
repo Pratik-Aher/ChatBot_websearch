@@ -79,7 +79,6 @@ streamlit run app.py
 ```
 
 - Local URL: [http://localhost:8501](http://localhost:8501)  
-- Network URL: (shown in terminal)  
 
 ---
 
